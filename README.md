@@ -5,12 +5,8 @@ This cookbook installs [Siege](http://www.joedog.org/siege-home/).
 # Requirements
 
 This cookbook is compatible with CentOS, RedHat, Ubuntu and Gentoo.
+On CentOS and RedHat, it requires the [yum](https://github.com/opscode-cookbooks/yum) cookbook.
 
-For CentOS, you need to have [EPEL](http://fedoraproject.org/wiki/EPEL) repository installed.
-There are a few cookbooks which provide it:
-
-* https://github.com/atomic-penguin/cookbook-yumrepo
-* https://github.com/opscode-cookbooks/yum
 
 # Usage
 

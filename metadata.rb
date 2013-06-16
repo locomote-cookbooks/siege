@@ -10,4 +10,4 @@ version          '0.1'
   supports os
 end
 
-recommends 'yum'
+depends 'yum'
